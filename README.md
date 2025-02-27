@@ -41,4 +41,8 @@ Pour chaque dossier :
 2. cd x-ippsi-front
 3. npm install
 4. npm run dev
-demo 1: https://github.com/user-attachments/assets/a934972b-f992-4749-b878-3ecc3f7a4092
+
+
+
+demo 1 version Mobile: https://github.com/user-attachments/assets/a934972b-f992-4749-b878-3ecc3f7a4092
+demo 2 version Web: https://github.com/user-attachments/assets/22ab0df0-d80c-4842-8e90-6458dd18ee03
