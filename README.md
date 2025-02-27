@@ -7,14 +7,6 @@ Voici les dossiers :
 - x-back
 - x-ippsi-front
 
-## Participants
-- Miguel KIDIMBA
-- Soumaya JEBALI
-- Hoda FEDE NDINGE
-- Kevin TATA
-- Beji SOUHIR
-- Chaimae HMAMED
-
 ## Fonctionnalités Principales
 - Authentification (inscription, connexion)
 - Création et affichage des tweets
