@@ -26,7 +26,7 @@ Voici les dossiers :
 Pour chaque dossier :
 
 ### app-x
-1. git clone https://github.com/KiddMiguel/Ipssi-x-front-v2.git
+1. git clone https://github.com/souhirbeji/Replicat-Twitter.git
 2. cd app-x
 3. npm install
 4. npx expo start (Attention à changer les information http dans le fichier constant/config.ts)
@@ -39,13 +39,13 @@ Pour chaque dossier :
 ```
 
 ### x-back
-1. git clone https://github.com/KiddMiguel/Ipssi-x-front-v2.git
+1. git clone https://github.com/souhirbeji/Replicat-Twitter.git
 2. cd x-back
 3. npm install
 4. npm start
 
 ### x-ippsi-front (Site web)
-1. git clone https://github.com/KiddMiguel/Ipssi-x-front-v2.git
+1. git clone https://github.com/souhirbeji/Replicat-Twitter.git
 2. cd x-ippsi-front
 3. npm install
 4. npm run dev
